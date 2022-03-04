@@ -33,10 +33,8 @@ window.addEventListener('load', () => {
   }
 
   function searchData(i) {
-    fetch('http://localhost:5500/app/data/data.json')
-      // fetch(
-      //   'https://yeimy7.github.io/Frontend-Mentor-Challenges/space-tourism-website-main/db/data.json'
-      // )
+    //fetch('http://localhost:5500/app/data/data.json')
+    fetch('https://faha1999.github.io/Space-tourism/app/data/data.json')
       .then((response) => response.json())
       .then((data) => {
         tech.title = data.technology[i].name;
