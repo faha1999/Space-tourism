@@ -43,3 +43,11 @@ body {
     margin: 0 1rem;
   }
 }
+
+#picture,
+#title,
+#desc,
+#time,
+#distance {
+  transition: opacity 0.4s ease;
+}
