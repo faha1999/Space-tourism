@@ -1,4 +1,4 @@
-# Frontend Mentor - Easybank challenge
+# Frontend Mentor - Space tourism multi-page website
 
 Check out the final website [here](https://faha1999.github.io/Space-tourism/home.html)!
 
